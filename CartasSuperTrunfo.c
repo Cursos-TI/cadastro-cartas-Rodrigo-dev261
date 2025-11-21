@@ -101,7 +101,7 @@ int main() {
 
   printf("População: %d\n", populacao2);
 
-  printf("Área: %d\n", area_em_km2);
+  printf("Área: %f\n", area_em_km2);
 
   printf("PIB: %f\n", pib2);
 
